@@ -1,0 +1,6 @@
+﻿  dbgcheck.cpp
+C:\Users\foon4\source\repos\ragnar\ragnar\dbgcheck.cpp(25,41): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+  ragnar.cpp
+C:\Users\foon4\source\repos\ragnar\ragnar\ragnar.cpp(34,15): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  Generating Code...
+  ragnar.vcxproj -> C:\Users\foon4\source\repos\ragnar\Debug\ragnar.exe

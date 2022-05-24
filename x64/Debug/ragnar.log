@@ -1,0 +1,16 @@
+﻿  protection.cpp
+C:\Users\foon4\source\repos\ragnar\ragnar\protection.cpp(9,2): warning C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\foon4\source\repos\ragnar\ragnar\protection.cpp(11,7): error C2065: 'eax': undeclared identifier
+C:\Users\foon4\source\repos\ragnar\ragnar\protection.cpp(11,10): error C3192: syntax error: '^' is not a prefix operator (did you mean '*'?)
+C:\Users\foon4\source\repos\ragnar\ragnar\protection.cpp(11,12): error C2065: 'eax': undeclared identifier
+C:\Users\foon4\source\repos\ragnar\ragnar\protection.cpp(12,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\foon4\source\repos\ragnar\ragnar\protection.cpp(12,3): error C2065: 'mov': undeclared identifier
+C:\Users\foon4\source\repos\ragnar\ragnar\protection.cpp(12,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\foon4\source\repos\ragnar\ragnar\protection.cpp(12,7): error C2065: 'eax': undeclared identifier
+C:\Users\foon4\source\repos\ragnar\ragnar\protection.cpp(12,12): error C2065: 'fs': undeclared identifier
+C:\Users\foon4\source\repos\ragnar\ragnar\protection.cpp(12,14): error C2143: syntax error: missing ';' before ':'
+C:\Users\foon4\source\repos\ragnar\ragnar\protection.cpp(12,14): error C2059: syntax error: ':'
+  ragnar.cpp
+C:\Users\foon4\source\repos\ragnar\ragnar\ragnar.cpp(15,5): error C4996: 'GetVersionExW': was declared deprecated
+C:\Users\foon4\source\repos\ragnar\ragnar\ragnar.cpp(37,15): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  Generating Code...
